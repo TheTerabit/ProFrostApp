@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="dataBase"/>
+	<classpathentry kind="src" path="images"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="Resources/rs2xml.jar"/>
+	<classpathentry kind="lib" path="Resources/sqlite-jdbc-3.7.15-M1.jar"/>
+	<classpathentry kind="lib" path="Resources/sqlite-jdbc-3.7.15-SNAPSHOT-2.jar"/>
+	<classpathentry kind="lib" path="Resources/sqlite-jdbc-3.7.15-SNAPSHOT-javadoc.jar"/>
+	<classpathentry kind="lib" path="Resources/sqlite-jdbc-3.7.15-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="Resources/sqlite-jdbc-3.7.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="Resources/sqlite-jdbc-3.7.2.jar"/>
+	<classpathentry kind="lib" path="Resources/sqlite-jdbc4-3.8.2-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="jgoodies-common-1.8.0.jar" sourcepath="jgoodies-common-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="Resources/pdfbox-app-2.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bartek/workspace/ShopCreator/Resources/poi-4.0.1/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bartek/workspace/ShopCreator/Resources/poi-4.0.1/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bartek/workspace/ShopCreator/Resources/poi-4.0.1/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bartek/workspace/ShopCreator/Resources/poi-4.0.1/poi-scratchpad-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bartek/workspace/ShopCreator/Resources/poi-4.0.1/ooxml-lib/xmlbeans-3.0.2.jar"/>
+	<classpathentry kind="lib" path="Resources/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="Resources/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="Resources/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="Resources/poi-scratchpad-4.0.1.jar"/>
+	<classpathentry kind="lib" path="Resources/xmlbeans-3.0.2.jar"/>
+	<classpathentry kind="lib" path="Resources/curvesapi-1.05.jar"/>
+	<classpathentry kind="lib" path="Resources/commons-compress-1.18-javadoc.jar"/>
+	<classpathentry kind="lib" path="Resources/commons-compress-1.18-sources.jar"/>
+	<classpathentry kind="lib" path="Resources/commons-compress-1.18-test-sources.jar"/>
+	<classpathentry kind="lib" path="Resources/commons-compress-1.18-tests.jar"/>
+	<classpathentry kind="lib" path="Resources/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="Resources/docx4j-6.1.1.jar"/>
+	<classpathentry kind="lib" path="Resources/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="Resources/docx4j/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="Resources/docx4j/antlr-runtime-3.5.2.jar"/>
+	<classpathentry kind="lib" path="Resources/docx4j/avalon-framework-api-4.3.1.jar"/>
+	<classpathentry kind="lib" path="Resources/docx4j/avalon-framework-impl-4.3.1.jar"/>
+	<classpathentry kind="lib" path="Resources/docx4j/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="Resources/docx4j/commons-compress-1.12.jar"/>
+	<classpathentry kind="lib" path="Resources/docx4j/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="Resources/docx4j/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="Resources/docx4j/guava-20.0.jar"/>
+	<classpathentry kind="lib" path="Resources/docx4j/httpclient-4.5.6.jar"/>
+	<classpathentry kind="lib" path="Resources/docx4j/httpcore-4.4.10.jar"/>
+	<classpathentry kind="lib" path="Resources/docx4j/jackson-annotations-2.7.0.jar"/>
+	<classpathentry kind="lib" path="Resources/docx4j/jackson-core-2.7.9.jar"/>
+	<classpathentry kind="lib" path="Resources/docx4j/jackson-databind-2.7.9.4.jar"/>
+	<classpathentry kind="lib" path="Resources/docx4j/jaxb-svg11-1.0.2.jar"/>
+	<classpathentry kind="lib" path="Resources/docx4j/lorem-2.1.jar"/>
+	<classpathentry kind="lib" path="Resources/docx4j/mbassador-1.2.4.2.jar"/>
+	<classpathentry kind="lib" path="Resources/docx4j/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="Resources/docx4j/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="Resources/docx4j/stringtemplate-3.2.1.jar"/>
+	<classpathentry kind="lib" path="Resources/docx4j/wmf2svg-0.9.8.jar"/>
+	<classpathentry kind="lib" path="Resources/docx4j/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="Resources/docx4j/xmlgraphics-commons-2.3.jar"/>
+	<classpathentry kind="lib" path="/iTextTutorial2/bin/itextpdf-5.4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
