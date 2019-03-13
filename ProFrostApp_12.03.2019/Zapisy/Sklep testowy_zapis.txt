@@ -1,0 +1,10 @@
+P;Rega³ testowy 2;3;
+
+P;RT14;3;
+
+P; Bartosz;3;
+
+P;rega³ pawe³ka;2;
+
+P;new regal;4;
+
